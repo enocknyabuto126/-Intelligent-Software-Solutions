@@ -1,0 +1,40 @@
+# AI in Software Engineering Assignment Dependencies
+# Week 4: Building Intelligent Software Solutions
+
+# Core AI and Machine Learning
+scikit-learn>=1.3.0
+pandas>=1.5.0
+numpy>=1.24.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Web Automation and Testing
+selenium>=4.10.0
+webdriver-manager>=3.8.6
+
+# Data Processing and Analysis
+scipy>=1.10.0
+joblib>=1.3.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.20.0
+
+# Additional AI Tools (Optional)
+# openai>=0.28.0  # For advanced AI integration
+# transformers>=4.20.0  # For transformer models
+# torch>=2.0.0  # For PyTorch models
+
+# Development and Testing
+pytest>=7.3.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Data Visualization
+plotly>=5.15.0
+bokeh>=3.0.0
+
+# Utilities
+tqdm>=4.65.0
+requests>=2.31.0
+python-dotenv>=1.0.0
