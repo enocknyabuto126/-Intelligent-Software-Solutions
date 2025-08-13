@@ -157,25 +157,6 @@ Run cells sequentially to:
 3. Train and evaluate model
 4. Generate insights
 
-## 📈 Expected Results
-
-### Task 1 Performance Comparison
-- Manual lambda: Baseline performance
-- AI-suggested function: Similar performance, better readability
-- AI-suggested operator.itemgetter: 15-20% faster, most Pythonic
-
-### Task 2 Testing Results
-- Framework demonstration with AI insights
-- Test coverage analysis
-- Performance metrics
-- Recommendations for improvement
-
-### Task 3 ML Results
-- **Accuracy**: 94.7%
-- **F1-Score**: 0.947
-- **Cross-validation**: 94.2% (±2.1%)
-- Feature importance rankings
-- Priority prediction capabilities
 
 ## 🎓 Learning Objectives
 
@@ -243,30 +224,5 @@ This is an educational assignment. Feel free to:
 
 ## 📄 License
 
-This project is for educational purposes. Please respect academic integrity guidelines.
+This project is for educational purpose
 
-## 🎉 Success Criteria
-
-**Excellent (90-100%):**
-- All tasks completed with high-quality implementations
-- Comprehensive theoretical analysis
-- Strong ethical reflection
-- Creative bonus task proposal
-- Well-documented code and clear explanations
-
-**Good (80-89%):**
-- Most tasks completed successfully
-- Good understanding of concepts
-- Adequate ethical consideration
-- Functional implementations
-
-**Satisfactory (70-79%):**
-- Basic requirements met
-- Some tasks completed
-- Basic understanding demonstrated
-
----
-
-**Good luck with your AI in Software Engineering assignment! 🚀**
-
-For questions or support, refer to the course materials or reach out to your instructor.
